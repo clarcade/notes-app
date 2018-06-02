@@ -1,0 +1,6 @@
+{
+  "name": "notes-app",
+  "short_name": "notes-app",
+  "start_url": "/",
+  "display": "standalone"
+}
